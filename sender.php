@@ -56,7 +56,7 @@ try {
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Username = 'sup.decoroom@gmail.com';           // SMTP username
-    $mail->Password = 'p6z7qw2f';                         // SMTP password
+    $mail->Password = '88888888';                         // SMTP password
     $mail->Port = 465;                                    // TCP port to connect to
 
     //Recipients
